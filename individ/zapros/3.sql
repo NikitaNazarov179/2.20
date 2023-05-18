@@ -1,0 +1,1 @@
+SELECT * FROM life20 WHERE value < '65';

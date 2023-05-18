@@ -1,0 +1,1 @@
+SELECT * FROM life20 WHERE country_code LIKE '%A';
